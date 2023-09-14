@@ -1,4 +1,4 @@
-# AWS_HADOOP_CLUSTER 내용 정리 후 아키텍처 만들기
+# AWS_HADOOP_CLUSTER PPT 제작 중
 make HADOOP_CLUSTER on AWS EC2
 
 IAM MFA (security) Authy otp 생성.
