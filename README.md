@@ -1,6 +1,9 @@
 # AWS_HADOOP_CLUSTER 
 HADOOP_CLUSTER on AWS EC2
 
+EC2 instance 5ea t3a.large [cpu(amd) = 2, memory = 8]
+
+
 IAM MFA (security) Authy otp 생성.
 
 AWS Inspector ec2 scan - report 
