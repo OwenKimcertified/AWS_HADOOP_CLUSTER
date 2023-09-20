@@ -1,7 +1,7 @@
 # AWS_HADOOP_CLUSTER 
 HADOOP_CLUSTER on AWS EC2
 
-EC2 instance 5ea t3a.large [cpu(amd) = 2, memory = 8]
+EC2 instance 5 개 t3a.large [cpu(amd) = 2, memory = 8] 일 기준 5 개 instance 2072원
 
 
 IAM MFA (security) Authy otp 생성.
