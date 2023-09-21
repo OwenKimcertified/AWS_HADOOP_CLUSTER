@@ -4,7 +4,7 @@ provider "aws" {
 
 resource "aws_instance" "EC2" {
   ami           = "hadoop_base"
-  instance_type = "t2.micro"
+  instance_type = "t3a.large"
 
   tags = {
     Name = "node"
