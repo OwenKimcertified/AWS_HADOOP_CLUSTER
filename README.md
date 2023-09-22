@@ -21,7 +21,7 @@ EC2 instance 5 개 t3a.large [cpu(amd) = 2, memory = 8] 일 기준 5 개 instanc
 
 ### try 예정
 - AWS Inspector ec2 scan - report 
-- event 발생 시 (껏다 키기 or software 설치 시 etc.) vulnerable point 를 scan - report 해줌.
+ - event 발생 시 (껏다 키기 or software 설치 시 etc.) vulnerable point 를 scan - report 해줌.
 
 ![스크린샷 2023-09-14 21-54-38](https://github.com/OwenKimcertified/AWS_HADOOP_CLUSTER/assets/99598620/982fdec9-7e06-4cf7-a1e2-dfe338f19779)
 ![스크린샷 2023-09-14 21-54-51](https://github.com/OwenKimcertified/AWS_HADOOP_CLUSTER/assets/99598620/ebe6831c-25b6-4180-b39e-609aed449fa4)
