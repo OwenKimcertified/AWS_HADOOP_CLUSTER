@@ -1,5 +1,5 @@
 # AWS_HADOOP_CLUSTER (ing)
-# HADOOP_CLUSTER on AWS EC2
+### HADOOP_CLUSTER on AWS EC2
 
 ![슬라이드2](https://github.com/OwenKimcertified/AWS_HADOOP_CLUSTER/assets/99598620/23315313-7902-4e58-90dd-70ddfab30de2)
 ![슬라이드3](https://github.com/OwenKimcertified/AWS_HADOOP_CLUSTER/assets/99598620/8564b8ec-4dfa-4fd6-a16d-306275968d86)
@@ -11,7 +11,7 @@
 
 - **Zepplin 과 pyspark 를 연동해 사용할 수 있음**
 
-- **
+- **AMI 를 IaC 로 작성**
 
 ### aws security
 - IAM MFA (security) Authy otp 생성.
