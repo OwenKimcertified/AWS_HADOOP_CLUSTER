@@ -7,7 +7,7 @@
 
 ### additional
 - **ssh 충돌 문제를 막기 위해 새로운 사용자를 추가해 사용하는 것이 맞다고 판단**
-- ssh-keygen -R hostname 을 하더라도 해결되지 않는 경우를 미연에 방지
+  - ssh-keygen -R hostname 을 하더라도 해결되지 않는 경우를 미연에 방지
 
 - **Zepplin 과 pyspark 를 연동해 사용할 수 있음**
 
